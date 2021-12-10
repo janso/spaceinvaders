@@ -1,0 +1,17 @@
+body {
+	color: white;
+	background-color: black;
+	cursor: none;
+	user-select: none;
+}
+
+img {
+	border-style: none;
+	border-color: red;
+	border-width: 1px;
+}
+
+canvas {
+    width: 1800px;
+    height: 900px;
+}
